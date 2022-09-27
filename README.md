@@ -1,7 +1,7 @@
  # TextMaster
- ![alt text](https://github.com/madhurpatle/textmaster/blob/main/Screenshots/Screenshot%202022-07-17%20at%208.28.33%20PM.JPG)
- ![alt text](https://github.com/madhurpatle/textmaster/blob/main/Screenshots/Screenshot%202022-07-17%20at%208.34.30%20PM.JPG)
- ![alt text](https://github.com/madhurpatle/textmaster/blob/main/Screenshots/Screenshot%202022-07-17%20at%208.33.26%20PM.JPG)
+ ![alt text](https://github.com/prkhr21/Text-Master/blob/master/Screenshots/Screenshot%20(104).png)
+ ![alt text](https://github.com/prkhr21/Text-Master/blob/master/Screenshots/Screenshot%20(105).png)
+ ![alt text](https://github.com/prkhr21/Text-Master/blob/master/Screenshots/Screenshot%20(106).png)
  
 
 
